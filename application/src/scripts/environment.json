@@ -1,0 +1,7 @@
+{
+    "PINATA_GATEWAY": "https://gateway.pinata.cloud/ipfs/", 
+    "IPFS_GATEWAY": "https://ipfs.io/ipfs/",
+    "PINATA_JSON_PIN_URI": "https://api.pinata.cloud/pinning/pinJSONToIPFS",
+    "PINATA_FILE_PIN_URI": "https://api.pinata.cloud/pinning/pinFileToIPFS",
+    "PINATA_JWT": "YOUR JWT"
+}
